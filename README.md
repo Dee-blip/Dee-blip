@@ -5,7 +5,7 @@
 
 - Let’s Connect!
   1. Email: chyaunal75@gmail.com
-  2. LinkedIn: [Deepak Chyaunal](https://www.linkedin.com/feed/)
+  2. LinkedIn: [Deepak Chyaunal](https://www.linkedin.com/in/deepakchy/)
   3. Instagram: [@deepak99_swe](https://www.instagram.com/deepak99_swe/)
 <!---
 Dee-blip/Dee-blip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
